@@ -39,3 +39,9 @@
 [answers/3-2_Tab_List_Popup/]: https://github.com/ueokande/developing-browser-extensions-examples/blob/master/answers/3-2_Tab_List_Popup/
 [answers/4-1_Click_Counter_with_Reset/]: https://github.com/ueokande/developing-browser-extensions-examples/blob/master/answers/4-1_Click_Counter_with_Reset/
 [answers/4-2_Force_Dark_Mode_Extended/]: https://github.com/ueokande/developing-browser-extensions-examples/blob/master/answers/4-2_Force_Dark_Mode_Extended/
+
+## 書籍情報
+
+『手を動かしながら学ぶブラウザ拡張開発【基礎編】』は以下のサイトからチェックできます。
+
+- [手を動かしながら学ぶ ブラウザ拡張 開発［基礎編］（PDF版）：windhole - 技術書典マーケット](https://techbookfest.org/product/5629988065771520)
